@@ -1,10 +1,10 @@
 <p align="center">
- Hi Everyone ❤️
+ Hi Everyone 
 
 <p align="center">
- 💕 I’m currently working on my self knowledge
+  I’m currently working on my self knowledge
  <p align="center"> 
-  🎈 I’m currently learning Programing Logic
+   I’m currently learning Programing Logic
  <p align="center"> 
-  👑 I’m looking for help with Java, Html and CSS
+   I’m looking for help with Java, Html and CSS
 </p>
